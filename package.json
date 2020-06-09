@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-gitbook-learning-how-to-learn",
+  "version": "1.0.0",
+  "description": "This Gitbook contains my notes on the course [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richdayandnight/tutorial-gitbook-learning-how-to-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richdayandnight/tutorial-gitbook-learning-how-to-learn/issues"
+  },
+  "homepage": "https://github.com/richdayandnight/tutorial-gitbook-learning-how-to-learn#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.3"
+  }
+}
