@@ -1,4 +1,4 @@
 gitbook install
 gitbook build
-gitbook pdf ./
+gitbook pdf
 mv book.pdf _book/
