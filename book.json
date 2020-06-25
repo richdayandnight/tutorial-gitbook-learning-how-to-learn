@@ -1,0 +1,13 @@
+{
+    "plugins": ["prism", "-highlight", "katex-pp", "download-pdf-link"],
+    "pluginsConfig": {
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-okaidia.css"
+            ]
+        },
+        "download-pdf-link": {
+            "base": "https://github.com/richdayandnight/r2dve/blob/gh-pages/book.pdf"
+        }
+    }
+}
